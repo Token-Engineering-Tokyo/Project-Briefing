@@ -4,6 +4,8 @@ Connectome
 # Project summary
 Connectome is a ...
 
+# Typical use case
+
 # Stakeholders
 |Name|More details|
 |----|----|
